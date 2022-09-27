@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Alexander Vershinin](https://up.htmlacademy.ru/htmlcss/35/user/1528443).
-* Наставник: `Неизвестно`.
+* Наставник: [Arthur Litovko](https://htmlacademy.ru/profile/id6927).
 
 ---
 
