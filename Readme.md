@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Alexander Vershinin](https://up.htmlacademy.ru/htmlcss/35/user/1528443).
+* Студент: [Alexander Vershinin](https://up.htmlacademy.ru/htmlcss/34/user/1528443).
 * Наставник: [Arthur Litovko](https://htmlacademy.ru/profile/id6927).
 
 ---
@@ -18,7 +18,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1528443-sedona-35) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1528443-sedona-34) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
 
