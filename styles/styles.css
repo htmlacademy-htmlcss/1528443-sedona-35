@@ -47,9 +47,12 @@ body {
 }
 
 .navigation-list {
+  display: flex;
+  flex-wrap: wrap;
   margin: 0;
   padding: 0;
   width: 390px;
+  list-style-type: none;
 }
 
 .navigation-user {
@@ -58,6 +61,8 @@ body {
 }
 
 .navigation-link {
+  display: block;
+  padding: 24px 19px;
   font-family: "PT Sans", serif;
   font-size: 20px;
   line-height: 26px;
@@ -70,6 +75,7 @@ body {
 
 }
 
+
 .main-index {
   color: #000000;
   background-color: #ffffff;
@@ -81,6 +87,12 @@ body {
 .page-container {
   width: 1200px;
   margin: 0 auto;
+}
+
+.main-container {
+  flex-grow: 1;
+  padding-top: -30px;
+  padding-bottom: 69px;
 }
 
 .logo {
@@ -107,6 +119,14 @@ body {
   background-color: #ffffff;
   font-weight: 400;
   text-align: center;
+}
+
+.advantages-list {
+
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #ffffff;
 }
 
 .advantages-item-1{
@@ -252,11 +272,32 @@ text-align: center;
 text-transform: uppercase;
 }
 
+.page-footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-social-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.footer-social-item {
+  width: 25px;
+  height: 25px;
+  margin-left: 26px;
+  margin-bottom: 12px;
+}
+
+
 .user-e-mail {
 background-color: #82B3D3;
 color: #ffffff;
 background: url("../images/background/background.jpg");
-background-size: 1200px 411px;
+background-size: 2000px 415px;
 background-repeat: no-repeat;
 font-family: 'PT Sans', serif;
 font-style: normal;
@@ -340,4 +381,15 @@ text-decoration: none;
   font-size: 16px;
   line-height: 20px;
   font-weight: 400;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
